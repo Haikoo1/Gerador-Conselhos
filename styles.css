@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0D1F2D;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    color: white;
+  }
+
+
+
+  button {
+    padding: 15px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #546A7B;
+    color: white;
+  }
+
+
+
+  #conselho {
+    background-color: #546A7B;
+    border: 1px solid #ddd;
+    border-radius: 8px; 
+    padding: 25px;
+    margin-top: 30px;
+    width: 500px;
+    text-align: center;
+
+  }
